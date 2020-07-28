@@ -20,3 +20,10 @@ const isPrime = num => {
 
 console.log(isPrime(5)) 
 console.log(isPrime(4)) 
+
+console.log('qwerty'.toUpperCase())
+
+const squareArray = function(array) {
+    return array * array;};
+    
+console.log(squareArray(6))
